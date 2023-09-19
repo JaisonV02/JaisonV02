@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Jaison
+### I am currently a student studying computer science in University
 
 <!--
 **JaisonV02/JaisonV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
